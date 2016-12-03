@@ -1,5 +1,7 @@
 ﻿# Search & Copy Win Updates
-![alt tag](Screenshot.png)
+<p align="center">
+  <img src="Screenshot.png">
+</p>
 
 ##Inhalt
 Hier finden Sie den Sourcecode für das Programm.
